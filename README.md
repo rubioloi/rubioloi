@@ -1,4 +1,3 @@
-```markdown
 # 🦥 Hi, I'm Iñigo Rubio
 
 🎓 PhD student at Charles University and the Czech Academy of Sciences.
@@ -71,4 +70,4 @@ Current interests:
 ## 👀 Profile views
 
 ![Profile views](https://komarev.com/ghpvc/?username=rubioloi&color=grey)
-```
+
