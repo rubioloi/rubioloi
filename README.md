@@ -11,7 +11,7 @@ My main interests include:
 
 - 🌱 Biodiversity patterns across scales
 - 🗺️ Biogeography and macroecology
-- 🦠 Microbial and macroscopic biodiversity
+- 🦠 Microorganisms and macroorganism biodiversity
 - 🧬 Evolutionary ecology
 - 📊 Reproducible workflows and ecological data analysis
 
@@ -37,12 +37,12 @@ taxonomic scales.
 
 Current interests:
 
-🌍 Biogeography  
+🌍 Biogeography
+🦦 Macroecology
+🧬 Macroevolution  
+🗺️ Spatial evolutionary ecology
 🌱 Community ecology  
-🦠 Microbial ecology  
-🦦 Macroscopic biodiversity  
-🧬 Evolutionary processes  
-🗺️ Spatial ecology  
+🦠 Microbial ecology    
 
 ---
 
